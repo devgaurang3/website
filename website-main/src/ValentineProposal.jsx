@@ -36,7 +36,7 @@ export default function ValentineProposal() {
     "I'm gonna cry...",
     "Pretty please? 💔",
     "Last chance!",
-    "enter your girlfriends name here... 😢"
+    "Ms Aastha Bhore 😢"
   ];
 
   const handleNoHover = () => {
@@ -220,7 +220,7 @@ export default function ValentineProposal() {
           </h1>
           
           <p className="text-4xl font-bold text-gray-800 mb-6 animate-[fadeIn_1.5s_ease-out]">
-            I knew you'd say yes, girlfriend name! ❤️
+            I knew you'd say yes, Ms Aastha! ❤️
           </p>
           
           <p className="text-2xl text-gray-700 mb-8 animate-[fadeIn_2s_ease-out]">
@@ -307,7 +307,7 @@ export default function ValentineProposal() {
         </div>
         
         <h1 className="text-7xl font-black text-transparent bg-clip-text bg-gradient-to-r from-pink-600 via-red-500 to-purple-600 mb-6 animate-[slideDown_0.8s_ease-out] tracking-tight">
-          Hey enter your girlfriends name here! 💕
+          Hey Aastha! 💕
         </h1>
         
         <div className="h-1 w-32 bg-gradient-to-r from-pink-400 to-red-400 mx-auto mb-8 rounded-full"></div>
@@ -348,7 +348,7 @@ export default function ValentineProposal() {
 
         {noCount > 6 && (
           <p className="mt-4 text-lg text-red-500 font-bold animate-pulse">
-            Come on girlfriends name, you know you want to say yes! 💕
+            Come on Aastha, you know you want to say yes! 💕
           </p>
         )}
       </div>
