@@ -1,4 +1,4 @@
-## for my wife, the love of my life 👋
+## for my cutie, my love 👋
 
 <!--
 **name/name** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
