@@ -88,7 +88,7 @@ export default function ValentineProposal() {
         <div className="relative z-10 animate-[scaleIn_2s_ease-out]">
           <div className="w-96 h-96 rounded-full overflow-hidden border-8 border-white shadow-[0_0_100px_rgba(255,255,255,0.5)] animate-[rotate_2s_ease-in-out]">
             <img 
-              src="/photos/IMG_0024.jpg" 
+              src="/photos/fig1.png" 
               alt="Love" 
               className="w-full h-full object-cover"
             />
@@ -155,21 +155,21 @@ export default function ValentineProposal() {
             {/* Image 1 */}
             <div className="absolute top-0 left-1/2 transform -translate-x-1/2" style={{ animation: 'orbit 15s linear infinite' }}>
               <div className="w-32 h-32 rounded-2xl overflow-hidden border-4 border-white shadow-2xl transform hover:scale-125 transition-all duration-300 pointer-events-auto animate-[wiggle_2s_ease-in-out_infinite]">
-                <img src="/photos/IMG_0024.jpg" alt="Love" className="w-full h-full object-cover" />
+                <img src="/photos/fig1.png" alt="Love" className="w-full h-full object-cover" />
               </div>
             </div>
 
             {/* Image 2 */}
             <div className="absolute top-32 right-32" style={{ animation: 'orbit 15s linear infinite', animationDelay: '-1.875s' }}>
               <div className="w-28 h-28 rounded-2xl overflow-hidden border-4 border-white shadow-2xl transform hover:scale-125 transition-all duration-300 pointer-events-auto animate-[bounce_2.5s_ease-in-out_infinite]">
-                <img src="/photos/IMG_6979.jpg" alt="Hearts" className="w-full h-full object-cover" />
+                <img src="/photos/fig2.png" alt="Hearts" className="w-full h-full object-cover" />
               </div>
             </div>
 
             {/* Image 3 */}
             <div className="absolute top-1/2 right-0 transform -translate-y-1/2" style={{ animation: 'orbit 15s linear infinite', animationDelay: '-3.75s' }}>
               <div className="w-36 h-36 rounded-2xl overflow-hidden border-4 border-white shadow-2xl transform hover:scale-125 transition-all duration-300 pointer-events-auto animate-pulse">
-                <img src="/photos/IMG_8430.jpg" alt="Celebration" className="w-full h-full object-cover" />
+                <img src="/photos/fig3.png" alt="Celebration" className="w-full h-full object-cover" />
               </div>
             </div>
 
@@ -183,28 +183,28 @@ export default function ValentineProposal() {
             {/* Image 5 */}
             <div className="absolute bottom-0 left-1/2 transform -translate-x-1/2" style={{ animation: 'orbit 15s linear infinite', animationDelay: '-7.5s' }}>
               <div className="w-32 h-32 rounded-2xl overflow-hidden border-4 border-white shadow-2xl transform hover:scale-125 transition-all duration-300 pointer-events-auto animate-[wiggle_2.5s_ease-in-out_infinite]">
-                <img src="/photos/IMG_9589.jpg" alt="Together" className="w-full h-full object-cover" />
+                <img src="/photos/fig4.png" alt="Together" className="w-full h-full object-cover" />
               </div>
             </div>
 
             {/* Image 6 */}
             <div className="absolute bottom-32 left-32" style={{ animation: 'orbit 15s linear infinite', animationDelay: '-9.375s' }}>
               <div className="w-36 h-36 rounded-2xl overflow-hidden border-4 border-white shadow-2xl transform hover:scale-125 transition-all duration-300 pointer-events-auto animate-[bounce_3s_ease-in-out_infinite]">
-                <img src="/photos/IMG_9595.jpg" alt="Love Story" className="w-full h-full object-cover" />
+                <img src="/photos/fig5.png" alt="Love Story" className="w-full h-full object-cover" />
               </div>
             </div>
 
             {/* Image 7 */}
             <div className="absolute top-1/2 left-0 transform -translate-y-1/2" style={{ animation: 'orbit 15s linear infinite', animationDelay: '-11.25s' }}>
               <div className="w-28 h-28 rounded-2xl overflow-hidden border-4 border-white shadow-2xl transform hover:scale-125 transition-all duration-300 pointer-events-auto animate-pulse">
-                <img src="/photos/IMG_9601.jpg" alt="Sweet" className="w-full h-full object-cover" />
+                <img src="/photos/fig7.jpeg" alt="Sweet" className="w-full h-full object-cover" />
               </div>
             </div>
 
             {/* Image 8 */}
             <div className="absolute top-32 left-32" style={{ animation: 'orbit 15s linear infinite', animationDelay: '-13.125s' }}>
               <div className="w-32 h-32 rounded-2xl overflow-hidden border-4 border-white shadow-2xl transform hover:scale-125 transition-all duration-300 pointer-events-auto animate-[float_3.5s_ease-in-out_infinite]">
-                <img src="/photos/IMG_9636.jpg" alt="Forever" className="w-full h-full object-cover" />
+                <img src="/photos/fig1.png" alt="Forever" className="w-full h-full object-cover" />
               </div>
             </div>
           </div>
