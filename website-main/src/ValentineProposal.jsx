@@ -176,7 +176,7 @@ export default function ValentineProposal() {
             {/* Image 4 */}
             <div className="absolute bottom-32 right-32" style={{ animation: 'orbit 15s linear infinite', animationDelay: '-5.625s' }}>
               <div className="w-28 h-28 rounded-2xl overflow-hidden border-4 border-white shadow-2xl transform hover:scale-125 transition-all duration-300 pointer-events-auto animate-[float_3s_ease-in-out_infinite]">
-                <img src="/photos/IMG_9135.jpg" alt="Romance" className="w-full h-full object-cover" />
+                <img src="/photos/fig1.png" alt="Romance" className="w-full h-full object-cover" />
               </div>
             </div>
 
